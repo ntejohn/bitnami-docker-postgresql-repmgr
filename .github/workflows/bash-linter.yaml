@@ -11,4 +11,4 @@ jobs:
       - name: Run ShellCheck
         uses: azohra/shell-linter@latest
         with:
-          path: "./10/debian-10/rootfs/opt/bitnami/scripts/librepmgr.sh ./11/debian-10/rootfs/opt/bitnami/scripts/librepmgr.sh ./12/debian-10/rootfs/opt/bitnami/scripts/librepmgr.sh ./13/debian-10/rootfs/opt/bitnami/scripts/librepmgr.sh ./14/debian-10/rootfs/opt/bitnami/scripts/librepmgr.sh  ./10/debian-10/rootfs/opt/bitnami/scripts/postgresql-env.sh ./11/debian-10/rootfs/opt/bitnami/scripts/postgresql-env.sh  ./12/debian-10/rootfs/opt/bitnami/scripts/postgresql-env.sh ./13/debian-10/rootfs/opt/bitnami/scripts/postgresql-env.sh ./14/debian-10/rootfs/opt/bitnami/scripts/postgresql-env.sh"
+          path: "./10/debian-10/rootfs/opt/bitnami/scripts/librepmgr.sh ./11/debian-10/rootfs/opt/bitnami/scripts/librepmgr.sh ./12/debian-10/rootfs/opt/bitnami/scripts/librepmgr.sh ./13/debian-10/rootfs/opt/bitnami/scripts/librepmgr.sh ./14/debian-10/rootfs/opt/bitnami/scripts/librepmgr.sh"
