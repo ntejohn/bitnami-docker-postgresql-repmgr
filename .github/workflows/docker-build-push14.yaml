@@ -14,7 +14,7 @@ on:
   pull_request:
 
 env:
-  IMAGE_NAME: postgres-ha-node-id-mod-11-debian-14
+  IMAGE_NAME: postgres-ha-node-id-mod-14-debian-10
 
 jobs:
   # Push image to GitHub Packages.
